@@ -1,3 +1,3 @@
 # Easy HTTP
 
-An object oriented AJAX library for GET, POST, PUT, DELETE requests
+An easy to use AJAX library for GET, POST, PUT, DELETE requests
